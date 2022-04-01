@@ -1,5 +1,5 @@
 ###########################################
-Dokumeentasi Suara Google di PC Windows
+Dokumentasi Suara Google di PC Windows
 ###########################################
 
 Bosan dengan suara Google translate yang hanya itu-itu saja di PC atau di laptop? Tenang saja karena kamu bisa merubah suara yang awalnya dari default dapat diubah menjadi voice yang lebih bervariasi dan nyaman didengarkan.
