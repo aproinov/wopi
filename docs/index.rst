@@ -33,7 +33,7 @@ Sound of Text
 
 Selain dengan Google Translate, kamu juga bisa merubah suara Google tersebut dengan menggunakan sound of text. Banyak sekali situs yang dapat dimanfaatkan untuk membuat suara dari media ini dan voice yang ada juga cukup beragam.
 
-Hal ini bisa terlihat seperti suara tokoh spongebob, pria, wanita atau bahkan berbagai tokoh menarik lainnya. Sebagai contoh, kamu akan memanfaatkan situs dari Vo Codes untuk membuat `sound of text <https://karinov.co.id/sound-of-text-wa/>`_ dari smartphone.
+Hal ini bisa terlihat seperti suara tokoh spongebob, pria, wanita atau bahkan berbagai tokoh menarik lainnya. Sebagai contoh, kamu akan memanfaatkan situs dari Vo Codes untuk membuat `sound of text <https://www.technolati.com/>`_ dari smartphone.
 
 1. Buka browser yang biasa digunakan lalu ketikkan situs berikut fakeyou.com/?vocodes=1
 2. Pada categories filters, kamu bisa masuk ke kartun lalu pilih Spongebob SquarePants.
