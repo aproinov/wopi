@@ -82,6 +82,7 @@ Contents
 
    style-guide
    contribute/index
+   cmd/index
 
 
 ******************
