@@ -1,94 +1,40 @@
 ############
-Contributing
+Comparing Business Models: Walmart in the USA vs Indomaret in Indonesia
 ############
 
-This document provides guidelines for people who want to contribute to the
-documentation-style-guide-sphinx project.
-
-
-**************
-Create tickets
-**************
-
-Please use the `bugtracker`_ **before** starting some work:
-
-* check if the bug or feature request has already been filed. It may have been
-  answered too!
-* else create a new ticket.
-* if you plan to contribute, tell us, but don't wait for us! So that we are
-  given an opportunity to discuss, join forces or give feedback as soon as
-  possible.
-
+Business models play a crucial role in shaping the operations and success of companies around the world. In this article, we will explore and compare the business models of two renowned retail giants: Walmart in the USA and Indomaret in Indonesia. While both companies operate in the retail industry, they have distinct approaches that reflect the unique characteristics and market dynamics of their respective countries. Let's delve into the key differences between the business models of Walmart in the USA and Indomaret in Indonesia.
 
 ***************
-Fork and branch
+Market Presence and Scale:
 ***************
 
-* Work in forks and branches.
-* Prefix your branch with the ticket ID corresponding to the issue. As an
-  example, if you are working on ticket #23 which is about headings convention,
-  name your branch like ``23-headings``.
+`The Largest Walmart in Texas`_, headquartered in the USA, has established a massive footprint both domestically and internationally. It operates a vast network of hypermarkets, supermarkets, and wholesale clubs, making it one of the largest retail chains globally. On the other hand, Indomaret, based in Indonesia, focuses primarily on the domestic market. It has a strong presence across the archipelago, with an extensive network of convenience stores catering to the diverse needs of Indonesian consumers.
 
+***************
+Store Formats and Offerings:
+***************
 
-********************
-Download and install
-********************
+`Walmart in the USA`_ is known for its large-format stores that offer a wide range of products, including groceries, electronics, apparel, household goods, and more. These stores often feature additional services like pharmacies, photo centers, and automotive services. Indomaret, in contrast, operates smaller convenience stores that provide essential items such as snacks, beverages, toiletries, and basic household goods. These stores cater to the convenience needs of Indonesian customers, often located in densely populated areas.
 
-System requirements:
+***************
+Pricing Strategies:
+***************
 
-* `Python`_ version 2.6 or 2.7.
-  
-  .. note::
+Walmart is recognized for its "Everyday Low Price" strategy, aiming to offer products at competitive prices consistently. The company leverages its massive purchasing power and efficient supply chain to negotiate favorable deals with suppliers, enabling it to pass on cost savings to customers. Indomaret, on the other hand, focuses on convenience and affordability. While it aims to offer competitive prices, it also emphasizes accessibility and convenience for customers who prefer smaller, nearby stores for their everyday needs.
 
-    The provided Makefile uses ``python`` command. So you may use
-    `Virtualenv`_ to make sure the active ``python`` is the adequate one.
+***************
+Supply Chain Management:
+***************
 
-Execute:
+As a retail giant, Walmart in the USA has developed a highly sophisticated supply chain management system. It utilizes advanced technologies and logistics networks to efficiently source products, manage inventory, and streamline distribution processes. This enables Walmart to maintain high product availability and efficient replenishment cycles across its vast store network. Indomaret, operating in a geographically diverse country like Indonesia, faces unique challenges in supply chain management due to factors such as remote locations and complex logistics infrastructure. However, the company has implemented innovative approaches to overcome these challenges and ensure product availability in its convenience stores.
 
-.. code-block:: sh
+***************
+Localization and Cultural Factors:
+***************
 
-  git clone git@github.com/benoitbryon/documentation-style-guide-sphinx.git
-  cd documentation-style-guide-sphinx/
-  make install
+Walmart adapts its operations to the specific needs and preferences of the local markets it serves, including cultural considerations. In contrast, Indomaret, as an Indonesian company, has a deep understanding of the local market and tailors its offerings and store formats to cater to the preferences and shopping habits of Indonesian consumers. This localization helps both companies establish strong connections with their respective customer bases.
 
-If you cannot execute the Makefile, read it and adapt the few commands it
-contains in the ``install`` section to your needs.
-
-
-**************
-Edit documents
-**************
-
-They said "Eat your own dog food", so follow `style guide for Sphinx-based
-documentations`_.
-
-In your commit messages, reference the ticket with some ``refs #TICKET-ID``
-syntax.
-
-
-**************
-Test and build
-**************
-
-Tests and builds will automatically be triggered before commit:
-
-* tests include the build of documentation and README as HTML.
-* a `Git pre-commit hook`_ is installed during `Download and install`_.
-
-If you want to run them manually, use the provided Makefile:
-
-* run tests with ``make tests``
-* build documentation with ``make documentation-build``
-* build README with ``make README-build``
-
-
-*****
-Share
-*****
-
-* Push your code
-* Submit a pull request
-
+While Walmart in the USA and Indomaret in Indonesia operate in the retail industry, their business models differ significantly. Walmart's vast presence, large-format stores, competitive pricing, and sophisticated supply chain management set it apart in the American market. Indomaret, with its convenience-focused stores, localized approach, and emphasis on accessibility and affordability, has established itself as a leading convenience store chain in Indonesia. Understanding the differences in these business models highlights the significance of adapting to local market dynamics and consumer preferences, ultimately driving success in the retail industry.
 
 **********
 References
@@ -96,10 +42,9 @@ References
 
 .. target-notes::
 
-.. _`bugtracker`: 
-   https://github.com/benoitbryon/documentation-style-guide-sphinx/issues
-.. _`Python`: http://python.org
-.. _`Virtualenv`: http://virtualenv.org
-.. _`style guide for Sphinx-based documentations`:
-   http://documentation-style-guide-sphinx.readthedocs.org/
-.. _`Git pre-commit hook`: http://git-scm.com/book/en/Customizing-Git-Git-Hooks
+
+.. _`The Largest Walmart in Texas`: https://www.depkes.org/blog/list-of-largest-walmart-in-texas-usa/
+.. _`Walmart in the USA`: 
+   https://www.depkes.org/blog/15-hour-walmart-in-phoenix-az-store-hours-address-and-more/
+   
+   
