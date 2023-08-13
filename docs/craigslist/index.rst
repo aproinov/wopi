@@ -21,7 +21,7 @@ Potential Contenders:
 - New York City: As one of the most populous cities in the U.S., NYC naturally has a bustling Craigslist site. With a high density of people and businesses, it sees frequent posts in almost all categories.
 - San Francisco Bay Area: Given that Craigslist originated in San Francisco, it's no surprise the local site remains extremely active. The Bay Area's tech-driven populace and vast housing market contribute heavily.
 - Los Angeles: LA's diverse population and sprawling nature mean a wide variety of listings, from entertainment gigs to automobile sales.
-- Chicago: As the largest city in the Midwest, Chicago serves as a hub for numerous activities, reflected in its active Craigslist site.
+- Chicago: As the largest city in the Midwest, Chicago serves as a hub for numerous activities, reflected in its active Craigslist `Chicago <https://www.knot35.com/toplist/craigslist-chicago-il-the-complete-guide-to-finding-what-you-need/>`_.
 
 Observations:
 -----------------
