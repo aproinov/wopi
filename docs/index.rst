@@ -83,7 +83,7 @@ Contents
    style-guide
    contribute/index
    cmd/index
-
+   craigslist/index
 
 ******************
 Indices and tables
