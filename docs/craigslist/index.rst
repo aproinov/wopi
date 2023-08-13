@@ -26,7 +26,7 @@ Potential Contenders:
 Observations:
 -----------------
 
-- Housing & Jobs Sections: In major cities, these sections are consistently among the most active due to the sheer volume of people looking for housing or employment opportunities.
+- Housing & Jobs Sections: In major cities, these sections are consistently among the most active due to the sheer volume of people looking for housing or `employment opportunities <https://www.depkes.org/blog/kategori/craigslist/>`_.
 - Free Section: This section, which allows people to list items they're giving away, is remarkably active, especially in populous cities.
 - For Sale & Services Sections: Again, more populated areas see a higher number of daily listings.
 
