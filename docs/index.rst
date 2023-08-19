@@ -72,6 +72,9 @@ Jadi itulah beberapa tips merubah suara Google di PC baik dengan browser atau me
 
 Banyak sekali berbagai situs yang ada di sound of text ini dan tidak hanya Vo Codes saja. Berbagai situs tersebut seperti soundoftext.com, voiceoftext.com, myinstants.com dan berbagai website lainnya.
 
+.. note::
+   
+   To use VCPKG with Visual Studio, you can follow the comprehensive tutorial available at `vpckg.readthedocs.io <https://vcpkg.readthedocs.io/en/latest/>`_.
 
 ********
 Contents
